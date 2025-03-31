@@ -23,7 +23,7 @@ A Slack-like chat app built with React, TypeScript, and Vite. It lets users sele
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/parth-bhanushali/slack-channel-app.git
+git clone https://github.com/parth-bhanushali/slack-messenger-frontend.git
 ```
 
 ### 2. Install Dependencies
